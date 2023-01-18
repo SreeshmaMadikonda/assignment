@@ -1,5 +1,22 @@
 # assignment
 
+The code is an example of the prescribed list, it is
+
+just a prototype of one of the feature that the
+
+application will contain. There can be various
+
+landmarks quickly. We can add biosensors for their
+
+features so that they can get all the important
+
+health checking and etc.
+
+can add the facility for nearby doctors and map
+
+functionalities which can be added to it. 
+
+_name;
 class test :
     @staticmethod
     def main( args) :
